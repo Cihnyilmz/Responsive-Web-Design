@@ -65,7 +65,7 @@
 
 /* content section */
 .content {
-    background: url(resources/media/content/coding-characters-the-matrix-minimal.jpg) no-repeat center center / cover;
+    background: url(media/content/coding-characters-the-matrix-minimal.jpg) no-repeat center center / cover;
     /* border: 5px solid red; */
     color: white;
     display: flex;
